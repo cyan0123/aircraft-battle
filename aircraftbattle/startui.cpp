@@ -62,5 +62,5 @@ void StartUi::myhelp()
 }
 void StartUi::myabout()
 {
-    QMessageBox::information(NULL,"About","Author:桑赫林");
+    QMessageBox::information(NULL,"About","Author:SHL\nGitHub:https://github.com/cyan0123/aircraft-battle");
 }
